@@ -110,15 +110,17 @@ Use the navigation to access different sections and download files as needed.
 ### Clone, install and run the repository ###
 
 ```bash 
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/mdallanegra/Portfolio.git
 ```
 ```bash 
-    cd your-repository
+    cd Portfolio
 ```
 ```bash
+    cd Portfolio
     pip install -r requirements.txt
 ```
 ```bash
+    cd PortfolioWeb
     python manage.py runserver
 ```
 
