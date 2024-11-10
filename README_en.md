@@ -3,7 +3,7 @@
 </p>
 
 
-# My Portfolio Web Page<!-- omit in toc --> 
+# My Portfolio Web<!-- omit in toc --> 
 
 <p align="center">
     <strong><a href="README_es.md">Versión en Español</a></strong><br>
