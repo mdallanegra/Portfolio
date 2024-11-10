@@ -101,10 +101,11 @@ Use the navigation to access different sections and download files as needed.
 
 ### Project Structure ###
 
-- ```src```: Contains the main application source code
-- ```static```: Stores static files like CSS, JavaScript, and images
-- ```templates```: Houses HTML templates
-- ```requirements.txt```: Lists project dependencies
+- ```PortfolioWeb```: Contains the main application source code.
+- ```src```: Contains files and documents from readme.md. 
+- ```static```: Stores static files like CSS, JavaScript, and images.
+- ```templates```: Houses HTML templates.
+- ```requirements.txt```: Lists project dependencies.
 
 ### Clone, install and run the repository ###
 

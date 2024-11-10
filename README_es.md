@@ -102,10 +102,11 @@ Usa la navegación para acceder a diferentes secciones y descargar archivos seg�
 
 ### Estructura del proyecto ###
 
-- ```src```: Contiene el código fuente de la aplicación principal
-- ```static```: Almacena archivos estáticos como CSS, JavaScript e imágenes
-- ```templates```: Contiene las plantillas HTML
-- ```requirements.txt```: Lista las dependencias del proyecto
+- ```PortfolioWeb```: Contiene el código fuente de la aplicación principal.
+- ```src```: Contiene archivos y documentos del readme.md.
+- ```static```: Almacena archivos estáticos como CSS, JavaScript e imágenes.
+- ```templates```: Contiene las plantillas HTML.
+- ```requirements.txt```: Lista las dependencias del proyecto.
 
 ### Clonar, instalar y ejecutar el repositorio ###
 
