@@ -114,14 +114,15 @@ Usa la navegaci√≥n para acceder a diferentes secciones y descargar archivos seg√
     git clone https://github.com/mdallanegra/Portfolio.git
 ```
 ```bash 
-    cd Portfolio
+    cd Portfolio/Portfolio
 ```
 ```bash
-    cd Portfolio
     pip install -r requirements.txt
 ```
-```bash
+```bash 
     cd PortfolioWeb
+```
+```bash
     python manage.py runserver
 ```
 
